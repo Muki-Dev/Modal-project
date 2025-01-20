@@ -1,9 +1,9 @@
 # Mini Project: Modal
 To run Project:
 
-1- clone project:(no-code-splitting)
+1- clone project:(modal-project)
 
-2-cd no-code-splitting
+2-cd modal-project
 
 3- npm install
 
